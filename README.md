@@ -22,7 +22,7 @@ The project produced the following deliverables:
 ## Key Findings
 Based on the analysis and predictive modeling, several key factors were identified as significant drivers of churn and loyalty:
 
-## Churn Drivers:
+### Churn Drivers
 
 Monthly contracts   
 
@@ -36,7 +36,7 @@ Reasons associated with competitor offers   
 
 Issues with the attitude of the support team 
 
-## Loyalty Drivers:
+### Loyalty Drivers
 
 Two-year contracts    
 
