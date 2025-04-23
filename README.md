@@ -13,7 +13,7 @@ The project followed a workflow including customer data collection, data prepara
 ## Deliverables
 The project produced the following deliverables:
 
-<b>Information Presentation Deck:<\b> A presentation summarizing the analysis, key findings, and recommendations. (Attached: Information Deck.pdf)   
+<b>Information Presentation Deck:</b> A presentation summarizing the analysis, key findings, and recommendations. (Attached: Information Deck.pdf)   
 <b>Customer List of 500 Most Likely to Churn:<\b> A list of the top 500 customers with the highest predicted churn probability, intended for a targeted mailing campaign.   
 <b>Customer List of Churn Risk:<\b> A list of all remaining customers with their individual churn risk scores, to be used by the customer service team for context during interactions.   
 
